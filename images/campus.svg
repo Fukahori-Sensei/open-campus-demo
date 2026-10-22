@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9d8f4"/>
+      <stop offset="1" stop-color="#f2f8fb"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#sky)"/>
+  <circle cx="730" cy="105" r="48" fill="#ffd166"/>
+  <path d="M0 420 L180 250 L330 420 L500 220 L720 430 L830 300 L900 365 V600 H0Z" fill="#a5c9b3"/>
+  <rect x="160" y="210" width="560" height="300" rx="8" fill="#f9fbfc" stroke="#17324d" stroke-width="8"/>
+  <rect x="205" y="260" width="490" height="45" fill="#286b9b"/>
+  <g fill="#a9d8f4" stroke="#17324d" stroke-width="5">
+    <rect x="210" y="340" width="70" height="75"/><rect x="310" y="340" width="70" height="75"/>
+    <rect x="410" y="340" width="70" height="75"/><rect x="510" y="340" width="70" height="75"/>
+    <rect x="610" y="340" width="70" height="75"/>
+  </g>
+  <rect x="405" y="430" width="90" height="80" fill="#d7e5ec" stroke="#17324d" stroke-width="5"/>
+  <text x="450" y="290" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="700" fill="#fff">AOBA VOCATIONAL SCHOOL</text>
+  <text x="450" y="560" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="700" fill="#17324d">OPEN CAMPUS</text>
+</svg>
